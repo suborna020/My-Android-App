@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sixthApplication</string>
+    <string name="title">henten title</string>
+    <string name="description">description blah blah blah description blah blah blah description blah blah blah</string>
+
+    //TODO: Remove or change this placeholder text
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tag">SDD-fall-tutorial-2019</string>
+    <string name="api_key">AIzaSyBzahyVhlj5anp5RXr0aqdHe1sMqwtNHSg</string>
+</resources>
